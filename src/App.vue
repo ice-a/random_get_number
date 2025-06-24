@@ -198,7 +198,7 @@ const analyzeHexagramOffline = () => {
 }
   .art-word {
     font-family: 'Brush Script MT', cursive;
-    font-size: 1.2em;
+    font-size: 0.8em;
     color: #ff6600;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
   }
